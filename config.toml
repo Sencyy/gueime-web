@@ -1,3 +1,4 @@
 baseURL = 'https://sencyy.github.com/gueime-web/'
 languageCode = 'pt-br'
 title = 'Gueime'
+theme = 'simple-style'
