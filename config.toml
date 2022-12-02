@@ -1,4 +1,6 @@
 baseURL = 'https://sencyy.github.com/gueime-web/'
 languageCode = 'pt-br'
 title = 'Gueime'
+subtitle = 'O bot mais gueime do mundo'
 theme = 'simple-style'
+author = 'Sencyy'
